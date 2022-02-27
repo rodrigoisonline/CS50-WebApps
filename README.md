@@ -29,7 +29,7 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 <tbody>
 
 <tr>
-<td align="left">3</td>
+<td align="left">1</td>
 <td align="left"><a href="https://github.com/rodrigoisonline/supreme-eureka">Wiki</a></td>
 <td align="left">Design a Wikipedia-like online encyclopedia</td>
 <td align="left"><a href="https://mega-wiki.herokuapp.com/" rel="nofollow">Demo</a></td>
@@ -37,7 +37,7 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 </tr>
   
 <tr>
-<td align="left">1</td>
+<td align="left">2</td>
 <td align="left"><a href="https://github.com">Books(work on it)</a></td>
 <td align="left">Build a book review website</td>
 <td align="left"><a href="" rel="nofollow">Demo(work on it)</a></td>
@@ -47,7 +47,7 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
   
   
   <tr>
-<td align="left">2</td>
+<td align="left">3</td>
 <td align="left"><a href="">Flask(work on it)</a></td>
 <td align="left">Build an online messaging service using Flask, similar in spirit to Slack</td>
 <td align="left"><a href="" rel="nofollow">Demo(work on it)</a></td>
