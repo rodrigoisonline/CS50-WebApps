@@ -7,7 +7,7 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 <div align="center" dir="auto">
   <p dir="auto">Associated Schools:</p>
   <a href="#">
-    <img alt="Harvard" src="https://camo.githubusercontent.com/48f11fa1d2d8b6bd79ef1ccb992f06b886261205702003ea0352d22ae382a9f7/68747470733a2f2f6f6e6c696e652d6c6561726e696e672e686172766172642e6564752f73697465732f64656661756c742f66696c65732f736869656c64732f686172766172642d656e67696e656572696e672e706e67" data-canonical-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrs2DG-vw_OMTqxUH_QJxplf9hkUI52OtTaYmeEmOMV_1btynOdp3ILwodjsFd4ZuirqY&usqp=CAU" style="max-width: 100%;">
+    <img alt="Harvard" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrs2DG-vw_OMTqxUH_QJxplf9hkUI52OtTaYmeEmOMV_1btynOdp3ILwodjsFd4ZuirqY&usqp=CAU" data-canonical-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrs2DG-vw_OMTqxUH_QJxplf9hkUI52OtTaYmeEmOMV_1btynOdp3ILwodjsFd4ZuirqY&usqp=CAU" style="max-width: 100%;">
   </a>
   <p dir="auto">Harvard School - CS50</p>
   <a href="https://www.edx.org/es/bio/brian-yu" rel="nofollow">Instructor: Brian Yu </a>
