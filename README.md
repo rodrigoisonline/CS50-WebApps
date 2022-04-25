@@ -71,7 +71,7 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
  <tr>
 <td align="left">5</td>
 <td align="left"><a href="">Commerce(work on it)</a></td>
-<td align="left">Design an eBay-like e-commerce auction site</td>
+<td align="left">Design an simple store</td>
 <td align="left"><a href="" rel="nofollow">Demo(work on it)</a></td>
 <td align="center">----</td>
 </tr>
