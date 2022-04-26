@@ -32,7 +32,7 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 <td align="left">1</td>
 <td align="left"><a href="https://github.com/rodrigoisonline/supreme-eureka">Wiki</a></td>
 <td align="left">Design a Wikipedia-like online encyclopedia</td>
-<td align="left"><a href="https://mega-wiki.herokuapp.com/" rel="nofollow">Demo</a></td>
+<td align="left"><a href="https://mega-wiki.herokuapp.com/" rel="nofollow">(Code work on it) Demo</a></td>
 <td align="center"><a href="https://mega-wiki.herokuapp.com/" rel="nofollow">Youtube (work on it)</a></td>
 </tr>
   
@@ -72,7 +72,7 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 <td align="left">5</td>
 <td align="left"><a href="">Commerce(work on it)</a></td>
 <td align="left">Design an simple store</td>
-<td align="left"><a href="" rel="nofollow">Demo(work on it)</a></td>
+<td align="left"><a href="https://github.com/rodrigoisonline/Ident7" rel="nofollow"> Code - (Demo work on it) </a></td>
 <td align="center">----</td>
 </tr>
 
