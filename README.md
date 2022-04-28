@@ -32,7 +32,7 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 <td align="left">1</td>
 <td align="left"><a href="https://github.com/rodrigoisonline/wiki">Wiki</a></td>
 <td align="left">Design a Wikipedia-like online encyclopedia</td>
-<td align="left"><a href="https://mega-wiki.herokuapp.com/" rel="nofollow"> Demo</a></td> 
+<td align="left"><a href="https://mega-wiki.herokuapp.com/" rel="nofollow"> Live Demo</a></td> 
 <td align="center"><a href="https://mega-wiki.herokuapp.com/" rel="nofollow">Youtube (work on it)</a></td>
 </tr>
   
@@ -40,7 +40,7 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 <td align="left">2</td>
 <td align="left"><a href="https://github.com/rodrigoisonline/Commerce">Auction Market</a></td>
 <td align="left"> One where buyers and sellers enter competitive bids simultaneously similar to e-bay</td>
-<td align="left"><a href="" rel="nofollow">Demo(work on it)</a></td>
+<td align="left"><a href="http://164.90.244.239:8000/" rel="nofollow">Live Demo </a></td>
 <td align="center"><a href="" rel="nofollow">Youtube(work on it)</a></td>
 </tr>
 
