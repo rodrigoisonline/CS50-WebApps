@@ -80,7 +80,11 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 </table>
 
 
-# <a href="https://github.com/rodrigoisonline/legendary-invention"> Other CS50 projects</a>
+
+
+
+
+
 
 # <a href="https://medium.com/@rodrigoisonline"> Markdown2 + Django - Tutorial</a>
 
